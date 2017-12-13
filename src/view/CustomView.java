@@ -19,7 +19,7 @@ public class CustomView {
 		System.out.println("			2.删除客户			");
 		System.out.println("			3.修改客户			");
 		System.out.println("			4.ID查询客户			");
-		System.out.println("			5.Name查询客户		");
+		System.out.println("sad			5.Name查询客户		");
 		System.out.println("			6.查询所有客户			");
 		System.out.println("			7.退出				");
 		System.out.println("--------------------------------");
